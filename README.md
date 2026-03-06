@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sumit Negi 👋
 
-<!--
-**sumitnegi41/sumitnegi41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building high-traffic media platforms.
 
-Here are some ideas to get you started:
+Currently working on large scale publishing systems at **The Indian Express Group**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- PHP
+- WordPress VIP
+- Next.js
+- React.js
+- JavaScript (ES6+)
+- MySQL
+
+---
+
+## ⚡ Expertise
+
+- High Traffic Media Platforms
+- Ad Tech Systems
+- Core Web Vitals Optimization
+- WordPress Plugin Development
+
+---
+
+## 🧩 Featured Projects
+
+### User Activity Logger
+WordPress plugin for tracking editorial activity across posts, metadata and taxonomies.
+
+### Image Validator
+Media validation plugin enforcing resolution, aspect ratio, DPI and sharpness rules.
+
+### Recruitment Automation Platform
+WordPress recruitment system with AWS S3 resume storage.
+
+---
+
+## 🌐 Connect
+
+- LinkedIn: https://linkedin.com/in/sumit-negi
